@@ -6,7 +6,7 @@ $(document).ready(function() {
     const question3 = $("input#snout").val(); 
     const result = "My favorite body type is " + question1 + "." + " I prefer the body of my lover to be " + question2 + "." + " My favorite body part on a love interest is " + question3 + "."; 
     
-    if (question3 === "Snout") {
+    if (question3 === "Snouts" || "Snout") {
       $('#congrats').show();
     } else {
       $('#failure').show();
