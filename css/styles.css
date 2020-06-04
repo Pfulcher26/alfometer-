@@ -1,11 +1,11 @@
 h1 {
-  color: rgb(196, 45, 70);
+  color: whitesmoke;
   font-style: Georgia;
   text-align: center; 
 }
 
 img {
-  border: 6px solid black; 
+  border: 6px solid #e73434; 
 }
 
 .box { 
@@ -16,4 +16,5 @@ body {
     align-items: center;
     margin: auto;
     width: 85%;
+    background-color: rgb(209, 103, 120)
   }
