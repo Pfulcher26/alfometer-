@@ -1,4 +1,13 @@
 h1 {
   color: pink;
   font-style: Georgia;
+  text-align: center; 
+}
+
+img {
+  border: 6px solid black; 
+}
+
+.box { 
+  margin: 30px;  
 }
