@@ -1,3 +1,7 @@
+#congrats, #failure {
+  display: none;
+}
+
 h1 {
   color: whitesmoke;
   font-style: Georgia;

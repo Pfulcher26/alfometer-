@@ -12,7 +12,6 @@ $(document).ready(function() {
       $('#failure').show();
     }
   
-    
     $("#output").text(result); 
   });  
 });
