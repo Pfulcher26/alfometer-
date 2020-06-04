@@ -27,3 +27,9 @@ body {
 img {
   max-width: 100%;
 }
+
+#output {
+  border: 6px solid #e73434;
+  margin: 30px;  
+  background-color: pink
+}
